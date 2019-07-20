@@ -9,7 +9,7 @@ import org.springframework.context.ApplicationContext;
 public class Appliction {
 
 	public static void main(String[] args) {
-		 System.out.println("Test appliction");
+		 System.out.println("Test appliction i did this");
 		ApplicationContext ct =  SpringApplication.run(ApplicationContext.class, args);
 	}
 
